@@ -6,4 +6,4 @@ First, you need to input absolute addresses of two images which want to be TPS c
 
 You can click on the two images respectively, and the system will store the coordinates in the order you are clicked.
 
-Once you have finished marking all the points, you can press the "TPS covert" button to convert this image.
+Once you have finished marking all the points, you can press the "TPS convert" button to convert this image.
